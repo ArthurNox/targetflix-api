@@ -1,0 +1,89 @@
+{
+    "filmes": [
+        {
+            "id": 1,
+            "titulo": "Show da Xuxa",                        
+            "avaliacao": 3.5,
+            "genero": "Infantil",
+            "imagem": "https://bit.ly/2knZYpR",
+            "ano": 2015,
+            "diretor": "Adam Sandler",
+            "sinopse": "ashdjkha dkah sdjkha sdkhas jkdhajkdh ajkdh kajdhk",
+            "faixaEtaria": 18
+        },
+        {
+            "id": 2,
+            "titulo": "Sniper americano",
+            "avaliacao": 4.5,
+            "genero": "Ação",
+            "imagem": "https://bit.ly/2krxawT",
+            "ano": 2015,
+            "diretor": "Adam Sandler",
+            "sinopse": "ashdjkha dkah sdjkha sdkhas jkdhajkdh ajkdh kajdhk",
+            "faixaEtaria": 18
+        }
+    ],
+    "categorias": [
+        {
+            "descricao": "Lancamentos",
+            "filmes": [
+                {
+                    "id": 1,
+                    "titulo": "Show da Xuxa",                        
+                    "avaliacao": 3.5,
+                    "genero": "Infantil",
+                    "imagem": "https://bit.ly/2knZYpR"
+                },
+                {
+                    "id": 2,
+                    "titulo": "Sniper americano",
+                    "avaliacao": 4.5,
+                    "genero": "Acao",
+                    "imagem": "https://bit.ly/2krxawT"
+                }
+            ]
+        },
+        {
+            "descricao": "Acao",
+            "filmes": [
+                {
+                    "id": 2,
+                    "titulo": "Sniper americano",
+                    "avaliacao": 4.5,
+                    "genero": "Acao",
+                    "imagem": "https://bit.ly/2krxawT"
+                }
+            ]
+        },
+         {
+            "descricao": "Infantil",
+            "filmes": [
+                {
+                    "id": 1,
+                    "titulo": "Show da Xuxa",                        
+                    "avaliacao": 3.5,
+                    "genero": "Infantil",
+                    "imagem": "https://bit.ly/2knZYpR"
+                }
+            ]
+        }
+    ],
+    "generos": [
+        {
+            "id": 1,
+            "descricao": "Infantil"
+        },
+        {
+            "id": 2,
+            "descricao": "Ação"
+        },
+        {
+            "id": 3,
+            "descricao": "Aventura"
+        },
+        {
+            "id": 4,
+            "descricao": "Comédia"
+        }
+    ]
+}
